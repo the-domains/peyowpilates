@@ -1,0 +1,28 @@
+name: PeyowPilates
+favicon: null
+layout_spectrum: 0.8112453941721469
+typography_spectrum: 0.6331749595701694
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.16022681794129312
+  lightness: 0.8918527325149626
+  saturation: 0.02209718502126634
+  rhythmicContrast: 0.6132906298153102
+purpose: []
